@@ -1,5 +1,5 @@
 # Bash Script GUI with Zenity 💻
-Shell dili ve zenity kütüphanesi kullanılarak oluşturulmuş bir bash script. Script kullanılarak bilgisayar donanımı hakkında temel bilgilere erişilebilmektedir.
+Shell dili ve zenity kullanılarak oluşturulmuş bir bash script. Script kullanılarak bilgisayar donanımı hakkında temel bilgilere erişilebilmektedir.
 
 
 ## Kurulum ve Çalıştırma 🚀
