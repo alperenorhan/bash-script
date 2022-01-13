@@ -53,3 +53,7 @@ bash script.sh
  - Ubuntu 20.04 üzerinde GNOME terminali kullanıldı.
  - Shell script kodlandı.
  - Nano text editörü kullanıldı.
+
+### Tanıtım Videosu
+
+[![YoutubeVideo](https://img.youtube.com/vi/yg1mjsJAgk8/0.jpg)](https://www.youtube.com/watch?v=yg1mjsJAgk8)
