@@ -6,6 +6,7 @@ Shell dili ve zenity kütüphanesi kullanılarak oluşturulmuş bir bash script.
 
  - Script'i çalıştırmak için linux tabanlı bir işletim sistemi gerekmektedir.
  - Zenity ve hwinfo'nun kurulu olması gerekmektedir. Aşağıdaki komutları takip ederek kurulumları gerçekleştirebilirsiniz.
+
  [ ✔️ ] sudo apt-get update   
  [ ✔️ ] sudo apt-get install zenity  
  [ ✔️ ] sudo apt-get install hwinfo
