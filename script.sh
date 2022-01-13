@@ -88,8 +88,6 @@ while [ $rc -eq 1 ]; do
       --ok-label "Çıkış Yap"
        )
   rc=$?
-  echo "${rc}-${ans}"
-  echo $ans
   if [[ $ans = "Makine Donanım Adı" ]]
   then
 	donanim_adi
